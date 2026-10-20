@@ -1,0 +1,23 @@
+## Part 1: validation.html – Registration Form
+
+Create a registration form with these fields:
+Name
+Email
+Password
+Confirm password
+Age
+Use JavaScript to check what the user typed.
+If something is wrong, show a short error message right under that field. For example: “Password must be at least 8 characters.”
+Stop the form from being sent if any field is invalid.Check yourself: Try submitting the form with empty fields, a wrong email, or passwords that don’t match. The form should not submit.
+
+## Part 2: data.html – Data Table
+
+Create an array of objects in JavaScript. For example, each object could be a person or a product with a few properties like name, age, and city.
+Show the array as a table on the page. Build the table rows with JavaScript.
+Add a search box. The table should filter while the user types, without clicking a button.
+Add sort buttons. For example, one button sorts by name and another sorts by age.
+
+## Part 3: Upload Your Work
+
+all your pages with a clear message.
+them to a new GitHub repository.
